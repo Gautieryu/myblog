@@ -1,4 +1,4 @@
-baseURL: http://example.org/
-languageCode: en-us
+baseURL: https://Gautieryu.github.io/myblog
+languageCode: en-US
 title: My New Hugo Site
 theme: "PaperMod"
